@@ -1,0 +1,13 @@
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\bin\Debug\ColorsMod-ModBuilder.exe.config
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\obj\Debug\ColorsMod-ModBuilder.vbprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\obj\Debug\ColorsMod_ModBuilder.Form1.resources
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\obj\Debug\ColorsMod_ModBuilder.Resources.resources
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\obj\Debug\ColorsMod-ModBuilder.vbproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\bin\Debug\ColorsMod-ModBuilder.exe
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\bin\Debug\ColorsMod-ModBuilder.pdb
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\bin\Debug\ColorsMod-ModBuilder.xml
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\bin\Debug\Newtonsoft.Json.dll
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\bin\Debug\Newtonsoft.Json.xml
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\obj\Debug\ColorsMod-ModBuilder.exe
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\obj\Debug\ColorsMod-ModBuilder.xml
+c:\users\david\documents\visual studio 2013\Projects\ColorsMod-ModBuilder\ColorsMod-ModBuilder\obj\Debug\ColorsMod-ModBuilder.pdb
